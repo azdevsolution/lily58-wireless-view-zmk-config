@@ -25,6 +25,7 @@
 # 3/4/2025 zmk refresh
 # 4/17/2025 zmk refresh
 # 7/14/2025 zmk refresh and studio
+# 12/16/2025 zmk refresh
 ---
 include:
   - board: nice_nano_v2
